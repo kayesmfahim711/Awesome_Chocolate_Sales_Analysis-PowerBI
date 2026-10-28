@@ -32,7 +32,6 @@ The dashboard provides insights into revenue, profitability, orders, product per
 - MTD, QTD, YTD, and YoY Growth
 
 ## Dashboard Preview
-## Project Screenshots
 
 ### 1. Executive Overview
 ![Executive Overview](<Project%20Screenshorts/1.executive_overview.png>)
