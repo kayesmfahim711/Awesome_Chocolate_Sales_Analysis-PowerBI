@@ -33,7 +33,7 @@ The dashboard provides insights into revenue, profitability, orders, product per
 
 ## Dashboard Preview
 ### 1. Sales Performance Executive Dashboard
-![Executive Dashboard](screenshots/executive_overview.png)
+![Executive Dashboard](/Project Screenshorts/1.executive_overview.png)
 
 ### 2. Country Analysis Dashboard
 ![Country Analysis](screenshots/country_analysis.png)
