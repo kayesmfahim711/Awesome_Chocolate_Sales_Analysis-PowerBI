@@ -32,26 +32,28 @@ The dashboard provides insights into revenue, profitability, orders, product per
 - MTD, QTD, YTD, and YoY Growth
 
 ## Dashboard Preview
-### 1. Sales Performance Executive Dashboard
-![Executive Dashboard](/Project Screenshorts/1.executive_overview.png)
+## Project Screenshots
 
-### 2. Country Analysis Dashboard
-![Country Analysis](screenshots/country_analysis.png)
+### 1. Executive Overview
+![Executive Overview](<Project%20Screenshorts/1.executive_overview.png>)
 
-### 3. Product Analysis Dashboard
-![Product Analysis](screenshots/product_analysis.png)
+### 2. Country Analysis
+![Country Analysis](<Project%20Screenshorts/2.country_analysis.png>)
 
-### 4. Salesperson Performance Dashboard
-![Salesperson Performance](screenshots/salesperson_performance.png)
+### 3. Product Analysis
+![Product Analysis](<Project%20Screenshorts/3.product_analysis.png>)
 
-### 5. Month-to-Date (MTD) Analysis
-![MTD Analysis](screenshots/mtd_analysis.png)
+### 4. Salesperson Performance
+![Salesperson Performance](<Project%20Screenshorts/4.salesperson_performance.png>)
 
-### 6. Quarter-to-Date (QTD) Analysis
-![QTD Analysis](screenshots/qtd_analysis.png)
+### 5. MTD Analysis
+![MTD Analysis](<Project%20Screenshorts/5.mtd_analysis.png>)
 
-### 7. Year-to-Date (YTD) & Growth Analysis
-![YTD and Growth Analysis](screenshots/ytd_growth_analysis.png)
+### 6. QTD Analysis
+![QTD Analysis](<Project%20Screenshorts/6.qtd_analysis.png>)
+
+### 7. YTD Growth Analysis
+![YTD Growth Analysis](<Project%20Screenshorts/7.ytd_growth_analysis.png>)
 
 ## Notes
 The dashboard covers the 2023–2026 reporting period. The completeness of 2026 data should be considered when interpreting yearly comparisons.
